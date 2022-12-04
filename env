@@ -34,7 +34,7 @@ CI_ENVIRONMENT = development
 
 #--------------------------------------------------------------------
 
-app.baseURL = 'http://localhost/codeempat/'
+# app.baseURL = 'http://localhost/codeempat/'
 
 # If you have trouble with `.`, you could also use `_`.
 
